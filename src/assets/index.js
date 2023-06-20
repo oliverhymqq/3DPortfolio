@@ -32,6 +32,7 @@ import udemy from './company/udemy.png'
 import cocktailapp from './cocktailapp.png'
 import hmostore from './hmostore.png'
 import unsplash from './unsplash.png'
+import githubuser from './githubuser.png'
 
 export {
   logo,
@@ -65,4 +66,5 @@ export {
   cocktailapp,
   unsplash,
   hmostore,
+  githubuser,
 }
